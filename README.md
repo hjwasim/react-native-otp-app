@@ -3,7 +3,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-native-otp-app.git
+git clone https://github.com/hjwasim/react-native-otp-app.git
 cd react-native-otp-app
 ```
 
